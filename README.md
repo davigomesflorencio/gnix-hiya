@@ -1,3 +1,8 @@
+<div>
+<img src="./screenshots/1.jpeg" alt="drawing" style="width:auto;"/>
+
+</div>
+
 # gnix-hiya 
 
 A modern SwiftUI application demonstrating the power of **Apple Intelligence** using on-device Large Language Models (LLMs) via the `FoundationModels` framework.
